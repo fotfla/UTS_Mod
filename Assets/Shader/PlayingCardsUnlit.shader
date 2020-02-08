@@ -1,4 +1,4 @@
-﻿Shader "Unlit/TrumpUnlit"
+﻿Shader "Unlit/PlayingCardsUnlit"
 {
 	Properties
 	{

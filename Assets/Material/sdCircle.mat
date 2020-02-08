@@ -8,7 +8,7 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: sdCircle
   m_Shader: {fileID: 4800000, guid: b081157d95e1dce44b8870d46f1eb64b, type: 3}
-  m_ShaderKeywords: _FIGURE_CIRCLE _MODE_DEBUG
+  m_ShaderKeywords: _FIGURE_CIRCLE _MODE_NORMAL
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -20,5 +20,5 @@ Material:
     m_TexEnvs: []
     m_Floats:
     - _Figure: 0
-    - _Mode: 1
+    - _Mode: 0
     m_Colors: []
